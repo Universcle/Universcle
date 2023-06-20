@@ -1,7 +1,7 @@
 - 👋 Hi, I’m _@Universcle_
 - 🔭 I’m currently studying at _XJTLU_
 - 🌱 I’m currently learning _Bioinfomatics_
-- 📫 How to reach me _2564236824@qq.com_
+- 📫 How to reach me _tianyuxuanbest@gmail.com_
 
 ![Universcle's github stats](https://github-readme-stats.vercel.app/api?username=Universcle&show_icons=true&count_private=true&line_height=40)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Universcle&hide=html)
